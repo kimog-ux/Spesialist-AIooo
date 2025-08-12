@@ -1,0 +1,8 @@
+# def Rmath(val1,val2):
+#     2+2
+#     3+4
+#     return(val1+val2/(val1-100))
+#     1+1
+#     2+3
+# res = Rmath(20,400)
+# print(res)
